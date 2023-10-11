@@ -35,7 +35,7 @@ spoilerinstalled 0
 wheeltype 10
 fasciatype 1
 gpstype ublox
-mapregion us
+mapregion eu
 nokeylessentry 0
 nopushtounlock 0
 simulatedS1 0
@@ -46,7 +46,7 @@ rearseattype 1
 parkassistinstalled 3
 headlightlevelerinstalled 0
 navigationallowed 1
-country us
+country eu
 drlinstalled 0
 lightpipeinstalled 1
 sidemarkerinstalled 1
